@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<channel name="xfce4-panel" version="1.0">
+  <property name="configver" type="int" value="2"/>
+  <property name="panels" type="array">
+    <value type="int" value="2"/>
+    <property name="dark-mode" type="bool" value="false"/>
+    <property name="panel-2" type="empty">
+      <property name="autohide-behavior" type="uint" value="0"/>
+      <property name="position" type="string" value="p=8;x=1280;y=1415"/>
+      <property name="length" type="uint" value="100"/>
+      <property name="position-locked" type="bool" value="true"/>
+      <property name="size" type="uint" value="48"/>
+      <property name="plugin-ids" type="array">
+        <value type="int" value="31"/>
+        <value type="int" value="30"/>
+        <value type="int" value="17"/>
+        <value type="int" value="21"/>
+        <value type="int" value="7"/>
+        <value type="int" value="26"/>
+        <value type="int" value="18"/>
+        <value type="int" value="14"/>
+        <value type="int" value="32"/>
+      </property>
+      <property name="nrows" type="uint" value="1"/>
+      <property name="length-adjust" type="bool" value="false"/>
+      <property name="enter-opacity" type="uint" value="90"/>
+      <property name="leave-opacity" type="uint" value="90"/>
+      <property name="disable-struts" type="bool" value="false"/>
+      <property name="background-style" type="uint" value="0"/>
+      <property name="icon-size" type="uint" value="0"/>
+    </property>
+  </property>
+  <property name="plugins" type="empty">
+    <property name="plugin-7" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16530839535.desktop"/>
+      </property>
+      <property name="show-label" type="bool" value="false"/>
+    </property>
+    <property name="plugin-14" type="string" value="clock"/>
+    <property name="plugin-17" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-18" type="string" value="separator">
+      <property name="expand" type="bool" value="true"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-21" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16530849086.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-26" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16530851787.desktop"/>
+      </property>
+      <property name="show-label" type="bool" value="false"/>
+    </property>
+    <property name="plugin-30" type="string" value="actions">
+      <property name="button-title" type="uint" value="1"/>
+      <property name="appearance" type="uint" value="1"/>
+      <property name="items" type="array">
+        <value type="string" value="+lock-screen"/>
+        <value type="string" value="+switch-user"/>
+        <value type="string" value="-separator"/>
+        <value type="string" value="+suspend"/>
+        <value type="string" value="-hibernate"/>
+        <value type="string" value="-hybrid-sleep"/>
+        <value type="string" value="-separator"/>
+        <value type="string" value="+shutdown"/>
+        <value type="string" value="+restart"/>
+        <value type="string" value="-separator"/>
+        <value type="string" value="+logout"/>
+        <value type="string" value="-logout-dialog"/>
+      </property>
+      <property name="ask-confirmation" type="bool" value="true"/>
+    </property>
+    <property name="plugin-31" type="string" value="separator">
+      <property name="expand" type="bool" value="false"/>
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-32" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+  </property>
+</channel>

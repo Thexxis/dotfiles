@@ -1,0 +1,16 @@
+{
+    "username": "Thexxis",
+    "salt": "wCwWQdJ88YT0=Z-z",
+    "password": "BE6D6BF6DBDDC8A5F43478936AC7F3AB88E0DE038B5832074EDE876D4DAEE639",
+    "root": {
+        "uniqueid": "5A521F8E-3C68-570B-098A-EEB7462B68DF",
+        "devices": [
+            {
+                "uniqueid": "0123456789ABCDEF",
+                "certs": [
+                    "-----BEGIN CERTIFICATE-----\nMIICxjCCAa6gAwIBAgIIR2t6+EQYgIcwDQYJKoZIhvcNAQELBQAwIzEhMB8GA1UE\nAwwYTlZJRElBIEdhbWVTdHJlYW0gQ2xpZW50MB4XDTIyMDIyNzExMzQzNVoXDTQy\nMDIyNzExMzQzNVowIzEhMB8GA1UEAwwYTlZJRElBIEdhbWVTdHJlYW0gQ2xpZW50\nMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq8EiTA97PnSNVzRNMI30\naFszMoT08GgdwRjF9vxvQlP+ztGha+AI3PT4eVi91LKRsydnFfQzOAw5VOSYGWXo\n3hmQMXYpd1SWs\/FBnzHbYLsiC9qkNCIgl3U15uVe\/1D5AdGYT0VIXGGp+eZudBXm\nWZDkzLh8giAiMGDUmSlbTomcRgiC4oLcyS5V7rXn4YZoGWVptnEFjyNH12ySbJqB\npX7ydg7y2wIJHDnX42CCqJRXI9LucRptyYkx0Q5CMvqAW8r8dsB9SW8UMNtvITCq\nBaauTXg83EVlHOAplBvtNP1qjihh2ELWrRf3MX\/VcGq\/KO31qi\/H4dhKC9JzAkrs\nfQIDAQABMA0GCSqGSIb3DQEBCwUAA4IBAQCp6hHCGsIWsdllHrgqIjwcW0EyS9zx\naesuPxUpfH7gRSLoj8B2wO1vD28VrSkZLs+g5SUAnBu+iG3nYCCoJ9n0c3ylqjHb\njUgdAoxOFea3HtAytT6UN2pdQenedIdMvgsyYghe8uV6VbDap\/qNZ4uABIa4gYDu\nbxKFNsXyD3CuljDOgdep05UB2Uucg1qQzpzxmej9q6H41IsmkwXb6JgU4Jt5AbyG\nxo9Oc0R01AFf+8hrkdzPdlvY8ANWuvkPbwyMwngMnX1Zjs7J6azkG+3h1oU2OYga\ndY743mNEUYwlmcW+wkVXGPqbPz7GJZZpgmY+V7emnVm0yau1MX09d5yG\n-----END CERTIFICATE-----\n"
+                ]
+            }
+        ]
+    }
+}

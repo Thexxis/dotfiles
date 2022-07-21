@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Terminal
+Exec=/usr/bin/cutefish-terminal
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=System;TerminalEmulator;
+StartupNotify=true
+X-XFCE-Source=file:///usr/share/applications/cutefish-terminal.desktop
